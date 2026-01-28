@@ -1,4 +1,5 @@
 # config.yaml
+# 실제 사용 시 이 파일을 config.yaml로 복사 후 수정하세요
 apic:
   host: "APIC 주소"
   username: "계정명"
