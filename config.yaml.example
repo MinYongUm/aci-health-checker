@@ -1,0 +1,5 @@
+# config.yaml
+apic:
+  host: "APIC 주소"
+  username: "계정명"
+  password: "비밀번호"
