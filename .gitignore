@@ -1,0 +1,14 @@
+# 설정 파일 (비밀번호 포함)
+config.yaml
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# 리포트 폴더
+reports/
+
+# IDE 설정
+.vscode/
+.idea/
